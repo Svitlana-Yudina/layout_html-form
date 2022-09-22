@@ -1,1 +1,12 @@
-/* styles go here */
+.fieldset {
+  margin-bottom: 20px;
+}
+
+.field {
+  margin-top: 10px;
+  display: block;
+}
+
+.field:nth-child(2) {
+  margin-top: 0;
+}
