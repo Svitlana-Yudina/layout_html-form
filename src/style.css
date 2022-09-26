@@ -3,10 +3,10 @@
 }
 
 .field {
-  margin-top: 10px;
+  margin-bottom: 10px;
   display: block;
 }
 
-.field:nth-child(2) {
-  margin-top: 0;
+.field:last-child {
+  margin-bottom: 0;
 }
